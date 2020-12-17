@@ -1,4 +1,4 @@
-<h3 align="center">Hello there! My name is Ibrat Nawaz. 👋🤓</h3>
+<h1 align="center">Hello there! My name is Ibrat Nawaz. 👋🤓</h1>
 I'm full-stack MERN developer from India.
 <hr>
 <br>
