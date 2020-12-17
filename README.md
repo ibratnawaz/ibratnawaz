@@ -9,8 +9,7 @@ I'm full-stack MERN developer from India.
 <a href="https://github.com/nawazibrat/nawazibrat/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawazibrat&theme=tokyonight" />
 </a>
-<br>
-<hr>
+
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2]
 <!-- Icons -->
 
