@@ -7,7 +7,6 @@ working as freelancer. You can find me on [![Twitter][1.2]][1],  or on [![Linked
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Git_Bash-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
@@ -17,7 +16,7 @@ working as freelancer. You can find me on [![Twitter][1.2]][1],  or on [![Linked
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/nawazibrat/nawazibrat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawazibrat&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawazibrat&hide=php&theme=tokyonight" />
 </a>
 <a href="https://github.com/nawazibrat/nawazibrat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nawazibrat&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
