@@ -16,20 +16,11 @@ working as freelancer. You can find me on [![Twitter][1.2]][1],  or on [![Linked
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/nawazibrat/nawazibrat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawazibrat&hide=php&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawazibrat&hide=tsql,php&theme=tokyonight" />
 </a>
 <a href="https://github.com/nawazibrat/nawazibrat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nawazibrat&show_icons=true&line_height=27&count_private=true&theme=merko" />
 </a>   
-
-
-<a href="https://github.com/nawazibrat/nawazibrat/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nawazibrat&theme=merko&show_icons=true" />
-</a>
-<br>
-<a href="https://github.com/nawazibrat/nawazibrat/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawazibrat&theme=tokyonight" />
-</a>
 
 
 <!-- links to social media icons -->
