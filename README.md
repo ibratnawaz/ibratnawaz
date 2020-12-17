@@ -1,5 +1,5 @@
 ### Hello there! My name is Ibrat Nawaz. 👋🤓
-I'm full-stack MERN developer. I'm from India and currently looking for job.
+I'm full-stack MERN developer from India.
 
 <a href="https://github.com/nawazibrat/nawazibrat/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nawazibrat&theme=merko&show_icons=true" />
