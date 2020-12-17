@@ -19,7 +19,7 @@ working as freelancer. You can find me on [![Twitter][1.2]][1],  or on [![Linked
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawazibrat&hide=php&theme=tokyonight" />
 </a>
 <a href="https://github.com/nawazibrat/nawazibrat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nawazibrat&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nawazibrat&show_icons=true&line_height=27&count_private=true&theme=merko" />
 </a>   
 
 
