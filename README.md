@@ -1,7 +1,7 @@
 ### Hello there! My name is Ibrat Nawaz. 👋🤓
-<hr>
 I'm full-stack MERN developer from India.
-
+<hr>
+<br>
 <a href="https://github.com/nawazibrat/nawazibrat/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nawazibrat&theme=merko&show_icons=true" />
 </a>
