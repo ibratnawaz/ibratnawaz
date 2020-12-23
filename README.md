@@ -11,7 +11,7 @@
             src="https://img.shields.io/twitter/follow/ibratnawaz?logo=twitter&style=for-the-badge"
             alt="ibratnawaz" /></a> </p>
 
-- 🔭 I’m currently working on **task manager**
+- 🔭 I’m currently working on **e-commerse website (MERN)**
 
 - 🌱 I’m currently learning **React.js, AWS**
 
