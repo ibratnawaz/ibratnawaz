@@ -30,13 +30,13 @@
 
 <h3> 📈 &nbsp;GitHub Analytics </h3>
 
-<p align="center">
+
 <a href="https://github.com/nawazibrat">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nawazibrat&show_icons=true&theme=merko&locale=en" alt="nawazibrat" />
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nawazibrat&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="nawazibrat" />
 </a>
-</p>
+
 
 <br/>
 
