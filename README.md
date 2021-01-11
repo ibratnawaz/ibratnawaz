@@ -1,4 +1,4 @@
-<img alt="hi" src="wave.gif" width='40' align="left"/><h2> Hey there! I'm Ibrat Nawaz.</h2>
+<h2> <img alt="hi" src="wave.gif" align="left"/> Hey there! I'm Ibrat Nawaz.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
