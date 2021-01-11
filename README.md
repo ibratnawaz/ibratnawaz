@@ -1,18 +1,15 @@
-<h2> Hey there! I'm Ibrat Nawaz.</h2>
+<img alt="hi" src="wave.gif" width='40' align="left"/><h2> Hey there! I'm Ibrat Nawaz.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing web apps.
 - 🎓 &nbsp; Graduated with Bachelor's degree in Computer Science and Engineering.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Core Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -31,21 +28,19 @@
 
 <br/>
 
-<h3> ⚙️ &nbsp;GitHub Analytics </h3>
+<h3> 📈 &nbsp;GitHub Analytics </h3>
 
 <a href="https://github.com/nawazibrat">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nawazibrat&show_icons=true&theme=merko&locale=en" alt="nawazibrat" />
-        
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nawazibrat&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="nawazibrat" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nawazibrat&show_icons=true&theme=merko&locale=en" alt="nawazibrat" />
+    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nawazibrat&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="nawazibrat" />
 </a>
 
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/ibrat-nawaz-08b677183"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ibrat%20Nawaz-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:nawazmd0096@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nawazmd0096@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
