@@ -32,10 +32,10 @@
 <h3> 📈 &nbsp;GitHub Analytics </h3>
 
 
-<a href="https://github.com/nawazibrat">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nawazibrat&show_icons=true&theme=merko&locale=en" alt="nawazibrat" />
+<a href="https://github.com/ibratnawaz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibratnawaz&show_icons=true&theme=merko&locale=en" alt="ibratnawaz" />
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nawazibrat&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="nawazibrat" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibratnawaz&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ibratnawaz" />
 </a>
 
 
