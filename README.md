@@ -2,7 +2,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🔭 &nbsp; I work as a Software Engineer at [BigBinary](https://www.bigbinary.com). 
+- 💼 &nbsp; I worked as a Software Engineer at [BigBinary](https://www.bigbinary.com) and [Trikara](https://trikara.com/).
+- 🔭 &nbsp; I also did a bootcamp in MERN stack from [GUVI Geek Networks, IITM Research Park](https://www.guvi.in/).
 - 🤔 &nbsp; Exploring new technologies and developing web apps.
 - 🎓 &nbsp; Graduated with Bachelor's degree in Computer Science and Engineering.
 
