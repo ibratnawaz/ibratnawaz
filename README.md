@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 &nbsp; I worked as a Software Engineer at [BigBinary](https://www.bigbinary.com) and [Trikara](https://trikara.com/).
-- 🔭 &nbsp; I also did a bootcamp in MERN stack from [GUVI Geek Networks, IITM Research Park](https://www.guvi.in/).
+- 💼 &nbsp; I'm currently working as a Software Engineer at [EPAM Systems](https://www.epam.com/). <!---, and, have also worked at [BigBinary](https://www.bigbinary.com) and [Trikara](https://trikara.com/).-->
 - 🤔 &nbsp; Exploring new technologies and developing web apps.
 - 🎓 &nbsp; Graduated with Bachelor's degree in Computer Science and Engineering.
+- 🔭 &nbsp; I also did a bootcamp in MERN stack from [GUVI Geek Networks, IITM Research Park](https://www.guvi.in/).
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
