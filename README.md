@@ -47,6 +47,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/ibrat-nawaz-08b677183"><img src="https://img.shields.io/badge/-Ibrat%20Nawaz-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ibrat-nawaz/"><img src="https://img.shields.io/badge/-Ibrat%20Nawaz-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:nawazmd0096@gmail.com"><img src="https://img.shields.io/badge/-nawazmd0096@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
