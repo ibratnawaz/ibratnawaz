@@ -36,7 +36,7 @@
 <a href="https://github.com/ibratnawaz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibratnawaz&show_icons=true&theme=merko&locale=en" alt="ibratnawaz" />
     
-  <img height="180em" src="" alt="ibratnawaz" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibratnawaz&show_icons=true&theme=tokyonight&layout=compact" alt="ibratnawaz" />
 </a>
 
 
