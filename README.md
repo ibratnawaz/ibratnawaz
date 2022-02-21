@@ -19,8 +19,6 @@
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
-  <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
 - 🛢 &nbsp;&nbsp;
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -38,7 +36,7 @@
 <a href="https://github.com/ibratnawaz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibratnawaz&show_icons=true&theme=merko&locale=en" alt="ibratnawaz" />
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibratnawaz&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ibratnawaz" />
+  <img height="180em" src="" alt="ibratnawaz" />
 </a>
 
 
