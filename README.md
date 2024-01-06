@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
  
 - ⚡ &nbsp; 3+ years of experince in working as a Frontend developer.
-- 💼 &nbsp; I'm currently working as a Software Engineer at [EPAM Systems](https://www.epam.com/). <!---, and, have also worked at [BigBinary](https://www.bigbinary.com) and [Trikara](https://trikara.com/).-->
+- 💼 &nbsp; Currently working at [EPAM Systems](https://www.epam.com/) as a Software Engineer (SDE-2).
 - 🤔 &nbsp; Exploring new technologies and developing new things.
 - 🎓 &nbsp; Graduated with Bachelor's degree in Computer Science and Engineering.
 
