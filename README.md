@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
  
-- ⚡ &nbsp; 3+ years of experince in working as a Frontend developer.
+- ⚡ &nbsp; ~4 years of experince in working as a Frontend developer.
 - 💼 &nbsp; Currently working at [EPAM Systems](https://www.epam.com/) as a Software Engineer (SDE-2).
 - 🤔 &nbsp; Exploring new technologies and developing new things.
 - 🎓 &nbsp; Graduated with Bachelor's degree in Computer Science and Engineering.
